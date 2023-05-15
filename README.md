@@ -1,9 +1,9 @@
 ### Hi there 👋
 Glad you'r here!<br>
-<!--![](https://visitor-badge.glitch.me/badge?page_id=sandeepb20) <br> -->
-![](https://komarev.com/ghpvc/?username=sandeepb20&label=PROFILE+VIEWS&color=blue&style=plastic)<br>
+<!--![](https://visitor-badge.glitch.me/badge?page_id=sbijarnia-eightfold) <br> -->
+![](https://komarev.com/ghpvc/?username=sbijarnia-eightfold&label=PROFILE+VIEWS&color=blue&style=plastic)<br>
 <!--
-**sandeepb20/sandeepb20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sbijarnia-eightfold/sbijarnia-eightfold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 - 🔭 I’m interested in jumping in and trying out some coding.
 - 🌱 I’m currently expanding my knowledge of Blockchain and Machine Learning.
 - 👯 I’m looking to collaborate on any RL or Blockchain project.
-- 📫 How to reach me [Contact Info](https://sandeepb20.github.io/#contact)
+- 📫 How to reach me [Contact Info](https://sbijarnia-eightfold.github.io/#contact)
 
 <table style="width:100%">
   <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=sandeepb20&show_icons=true&hide_border=true&hide=issues" /></th>
-   <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepb20&layout=compact&langs_count=8" /></th> 
+    <th><img src="https://github-readme-stats.vercel.app/api?username=sbijarnia-eightfold&show_icons=true&hide_border=true&hide=issues" /></th>
+   <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbijarnia-eightfold&layout=compact&langs_count=8" /></th> 
    
   </tr>
 </table>
